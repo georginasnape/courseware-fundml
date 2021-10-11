@@ -1,0 +1,3 @@
+the code in cell 28 did not run (error said sets don't suuport indexing) so I converted the sets into lists
+
+ranks(list(players)[0]), suits(list(players)[0])
